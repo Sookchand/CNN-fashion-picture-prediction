@@ -10,10 +10,8 @@ This solution was developed by the author and would not have been possible witho
 
 
 ## Demo
+![image](https://user-images.githubusercontent.com/34344439/210092795-6a568342-7602-4764-8650-62089f4b9fd2.png)
 
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
 
 
 ## Tech Stack
